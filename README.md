@@ -1,0 +1,1 @@
+# LPU-leave-bot
